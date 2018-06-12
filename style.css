@@ -1,0 +1,14 @@
+.filler-row{
+    height: 5px;
+    margin: 0;
+    padding: 0;
+}
+
+.task-list{
+    list-style: none;
+}
+
+.close-button{
+    float: right;
+    cursor: pointer;
+}
